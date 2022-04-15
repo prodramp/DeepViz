@@ -1,4 +1,4 @@
-# DeepViz: Viz worth 10K line#
+# DeepViz: Viz worth 100K lines #
 ## Deep Learning Content Visualization with content description video
 ### Lets prove it ###
 
@@ -58,3 +58,4 @@ Resources:
 - https://towardsdatascience.com/the-beginners-glossary-of-neural-network-terms-a9617354078
 - https://deeplearning.lipingyang.org/deep-learning-glossary/
 - https://www.springboard.com/blog/data-science/machine-learning-terminology/
+- https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.p
